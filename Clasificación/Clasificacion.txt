@@ -1,1 +1,6 @@
-
+En esta carpeta se almacenan los modelos de clasificacion: 
+-Logistic
+-Red neuronal
+-Máquina Vector Soporte (SVC)
+-Random Forest
+-XGboost

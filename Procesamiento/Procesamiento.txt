@@ -1,1 +1,5 @@
-
+Esta carpeta contiene notebooks de procesamiento de datos:
+-ExploracionDatos.ipynb
+-FeatureSelection.ipynb
+-PCA_PLS-checkpoint.ipynb
+-TestTrainSplit.ipynb

@@ -1,1 +1,7 @@
-
+LinearRegression.ipynb
+NeuralNetworks.ipynb
+Tree_Regression.ipynb
+RandomForest.ipynb
+SVR.ipynb
+comparar_modelos.ipynb
+XGBoost_regresion.ipynb

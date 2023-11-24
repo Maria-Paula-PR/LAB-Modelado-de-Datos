@@ -1,3 +1,5 @@
+Esta carpeta contiene diferentes modelos de regressión:
+
 LinearRegression.ipynb
 NeuralNetworks.ipynb
 Tree_Regression.ipynb
